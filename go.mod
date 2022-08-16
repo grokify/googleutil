@@ -3,7 +3,7 @@ module github.com/grokify/googleutil
 go 1.16
 
 require (
-	cloud.google.com/go/bigquery v1.37.0
+	cloud.google.com/go/bigquery v1.38.0
 	cloud.google.com/go/dlp v1.4.0
 	cloud.google.com/go/speech v1.5.0
 	github.com/Iwark/spreadsheet v0.0.0-20220412131121-41eea1483964
@@ -17,5 +17,5 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.0.0-20220624214902-1bab6f366d9e
 	google.golang.org/api v0.92.0
-	google.golang.org/genproto v0.0.0-20220802133213-ce4fa296bf78
+	google.golang.org/genproto v0.0.0-20220812140447-cec7f5303424
 )
