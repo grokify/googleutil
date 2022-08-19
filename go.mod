@@ -11,7 +11,7 @@ require (
 	github.com/google/martian/v3 v3.3.2 // indirect
 	github.com/grokify/goauth v0.15.2
 	github.com/grokify/gocharts/v2 v2.7.4
-	github.com/grokify/mogo v0.39.8
+	github.com/grokify/mogo v0.40.0
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/joho/godotenv v1.4.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
