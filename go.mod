@@ -8,7 +8,7 @@ require (
 	cloud.google.com/go/speech v1.5.0
 	github.com/Iwark/spreadsheet v0.0.0-20220412131121-41eea1483964
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
-	github.com/grokify/goauth v0.16.0
+	github.com/grokify/goauth v0.16.1
 	github.com/grokify/gocharts/v2 v2.8.0
 	github.com/grokify/mogo v0.40.4
 	github.com/jessevdk/go-flags v1.5.0
@@ -24,7 +24,7 @@ require (
 	cloud.google.com/go/compute v1.7.0 // indirect
 	cloud.google.com/go/iam v0.3.0 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
-	github.com/caarlos0/env/v6 v6.9.3 // indirect
+	github.com/caarlos0/env/v6 v6.10.0 // indirect
 	github.com/golang-jwt/jwt/v4 v4.4.2 // indirect
 	github.com/golang/groupcache v0.0.0-20200121045136-8c9f03a8e57e // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
