@@ -209,8 +209,8 @@ github.com/googleapis/go-type-adapters v1.0.0/go.mod h1:zHW75FOG2aur7gAO2B+MLby+
 github.com/grokify/base36 v1.0.5 h1:iUgnt40hrPtn3M2gjU4Darow5ikf8xWXrTuMWTLziCk=
 github.com/grokify/goauth v0.16.0 h1:m/42nNXVpld3XSFeoadgKDvMaAPZXBNNp+Z27qALF7w=
 github.com/grokify/goauth v0.16.0/go.mod h1:PF0CTOhHSM3YBq5epu6fhD4Cy4CydIztq0Zq9pgs1us=
-github.com/grokify/gocharts/v2 v2.8.0 h1:58senltw/wiV7+iSypVRMpPyxGGH+6jNbR/gGJWRDUE=
-github.com/grokify/gocharts/v2 v2.8.0/go.mod h1:jFJgI1DMXs34aVoHKQtLglpliBCXSGSLStARRS1QI8M=
+github.com/grokify/gocharts/v2 v2.8.1 h1:maM9hHwwlTluAfyLTDpC1etej7TBvXqdLk6lW3OUR4c=
+github.com/grokify/gocharts/v2 v2.8.1/go.mod h1:EleuFgRTINryhcNhAw3xYlc5YXJ12NSV3IcBVIJUl1Q=
 github.com/grokify/mogo v0.40.4 h1:IDGRHgRj5eaCsl6na0++xLikRsAgTIpf0cTt49du7fY=
 github.com/grokify/mogo v0.40.4/go.mod h1:tBcnsGpXsAgHo2p5muSoisCNO+GBKPqJ8sW88TEqd3U=
 github.com/grpc-ecosystem/grpc-gateway v1.16.0/go.mod h1:BDjrQk3hbvj6Nolgz8mAMFbcEtjT1g+wF4CSlocrBnw=
