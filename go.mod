@@ -5,7 +5,7 @@ go 1.18
 require (
 	cloud.google.com/go/bigquery v1.41.0
 	cloud.google.com/go/dlp v1.5.0
-	cloud.google.com/go/speech v1.5.0
+	cloud.google.com/go/speech v1.7.0
 	github.com/Iwark/spreadsheet v0.0.0-20220412131121-41eea1483964
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
 	github.com/grokify/goauth v0.16.2
@@ -16,11 +16,11 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.0.0-20220909164309-bea034e7d591
 	google.golang.org/api v0.96.0
-	google.golang.org/genproto v0.0.0-20220915135415-7fd63a7952de
+	google.golang.org/genproto v0.0.0-20220920201722-2b89144ce006
 )
 
 require (
-	cloud.google.com/go v0.102.1 // indirect
+	cloud.google.com/go v0.104.0 // indirect
 	cloud.google.com/go/compute v1.7.0 // indirect
 	cloud.google.com/go/iam v0.3.0 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
@@ -45,6 +45,6 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/grpc v1.48.0 // indirect
+	google.golang.org/grpc v1.49.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
