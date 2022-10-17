@@ -10,11 +10,11 @@ require (
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
 	github.com/grokify/goauth v0.16.2
 	github.com/grokify/gocharts/v2 v2.8.1
-	github.com/grokify/mogo v0.40.4
+	github.com/grokify/mogo v0.40.5
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/joho/godotenv v1.4.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
-	golang.org/x/net v0.0.0-20220923203811-8be639271d50
+	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b
 	google.golang.org/api v0.98.0
 	google.golang.org/genproto v0.0.0-20220923205249-dd2d53f1fffc
 )
@@ -42,7 +42,7 @@ require (
 	go.opencensus.io v0.23.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1 // indirect
 	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/text v0.3.8 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	google.golang.org/grpc v1.49.0 // indirect
