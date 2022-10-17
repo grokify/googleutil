@@ -14,9 +14,9 @@ require (
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/joho/godotenv v1.4.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
-	golang.org/x/net v0.0.0-20220923203811-8be639271d50
-	google.golang.org/api v0.98.0
-	google.golang.org/genproto v0.0.0-20220923205249-dd2d53f1fffc
+	golang.org/x/net v0.0.0-20221012135044-0b7e1fb9d458
+	google.golang.org/api v0.99.0
+	google.golang.org/genproto v0.0.0-20221010155953-15ba04fc1c0e
 )
 
 require (
@@ -31,7 +31,7 @@ require (
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
-	github.com/googleapis/enterprise-certificate-proxy v0.1.0 // indirect
+	github.com/googleapis/enterprise-certificate-proxy v0.2.0 // indirect
 	github.com/googleapis/gax-go/v2 v2.5.1 // indirect
 	github.com/huandu/xstrings v1.3.2 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
@@ -40,11 +40,11 @@ require (
 	github.com/pquerna/ffjson v0.0.0-20190930134022-aa0246cd15f7 // indirect
 	github.com/valyala/fastjson v1.6.3 // indirect
 	go.opencensus.io v0.23.0 // indirect
-	golang.org/x/oauth2 v0.0.0-20220909003341-f21342109be1 // indirect
+	golang.org/x/oauth2 v0.0.0-20221006150949-b44042a4b9c1 // indirect
 	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/xerrors v0.0.0-20220907171357-04be3eba64a2 // indirect
 	google.golang.org/appengine v1.6.7 // indirect
-	google.golang.org/grpc v1.49.0 // indirect
+	google.golang.org/grpc v1.50.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
 )
