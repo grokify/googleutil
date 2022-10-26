@@ -6,8 +6,8 @@ cloud.google.com/go/bigquery v1.43.0/go.mod h1:ZMQcXHsl+xmU1z36G2jNGZmKp9zNY5BUu
 cloud.google.com/go/compute v1.10.0 h1:aoLIYaA1fX3ywihqpBk2APQKOo20nXsp1GEZQbx5Jk4=
 cloud.google.com/go/compute v1.10.0/go.mod h1:ER5CLbMxl90o2jtNbGSbtfOpQKR0t15FOtRsugnLrlU=
 cloud.google.com/go/datacatalog v1.6.0 h1:xzXGAE2fAuMh+ksODKr9nRv9ega1vHjFwRqMA8tRrVE=
-cloud.google.com/go/dlp v1.5.1 h1:mWLVvtrSXDVM40Y23aymjjP6slfFhxRuhIW5QUpEAns=
-cloud.google.com/go/dlp v1.5.1/go.mod h1:UHB78sXy2/7urRhx6QT1uJV6i6HHKEW+iGNX6w/JeIw=
+cloud.google.com/go/dlp v1.6.0 h1:XMxKeYF9PluIiGFOpWIy9Vbm0p7wZiz+PmSQENCh+yw=
+cloud.google.com/go/dlp v1.6.0/go.mod h1:9eyB2xIhpU0sVwUixfBubDoRwP+GjeUoxxeueZmqvmM=
 cloud.google.com/go/iam v0.5.0 h1:fz9X5zyTWBmamZsqvqZqD7khbifcZF/q+Z1J8pfhIUg=
 cloud.google.com/go/iam v0.5.0/go.mod h1:wPU9Vt0P4UmCux7mqtRu6jcpPAb74cP1fh50J3QpkUc=
 cloud.google.com/go/speech v1.7.0 h1:bRI2QczZGpcPfuhHr63VOdfyyfYp/43N0wRuBKrd0nQ=
