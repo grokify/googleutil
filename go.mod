@@ -15,7 +15,7 @@ require (
 	github.com/joho/godotenv v1.4.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.1.0
-	google.golang.org/api v0.102.0
+	google.golang.org/api v0.103.0
 	google.golang.org/genproto v0.0.0-20221027153422-115e99e71e1c
 )
 
