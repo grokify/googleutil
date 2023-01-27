@@ -5,7 +5,7 @@ go 1.18
 require (
 	cloud.google.com/go/bigquery v1.45.0
 	cloud.google.com/go/dlp v1.9.0
-	cloud.google.com/go/speech v1.12.0
+	cloud.google.com/go/speech v1.14.0
 	github.com/Iwark/spreadsheet v0.0.0-20220412131121-41eea1483964
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
 	github.com/grokify/goauth v0.17.4
@@ -15,8 +15,8 @@ require (
 	github.com/joho/godotenv v1.4.0
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.5.0
-	google.golang.org/api v0.107.0
-	google.golang.org/genproto v0.0.0-20230113154510-dbe35b8444a5
+	google.golang.org/api v0.108.0
+	google.golang.org/genproto v0.0.0-20230125152338-dcaf20b6aeaa
 )
 
 require (
