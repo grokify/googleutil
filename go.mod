@@ -7,7 +7,7 @@ go 1.21
 require (
 	cloud.google.com/go/bigquery v1.56.0
 	cloud.google.com/go/dlp v1.10.3
-	cloud.google.com/go/speech v1.19.2
+	cloud.google.com/go/speech v1.20.1
 	github.com/Iwark/spreadsheet v0.0.0-20230915040305-7677e8164883
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
 	github.com/grokify/goauth v0.20.4
@@ -17,7 +17,7 @@ require (
 	github.com/joho/godotenv v1.5.1
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.17.0
-	google.golang.org/api v0.148.0
+	google.golang.org/api v0.149.0
 	google.golang.org/genproto v0.0.0-20231016165738-49dd2c1f3d0b
 )
 
@@ -32,7 +32,6 @@ require (
 	github.com/apache/thrift v0.19.0 // indirect
 	github.com/buger/jsonparser v1.1.1 // indirect
 	github.com/caarlos0/env/v6 v6.10.1 // indirect
-	github.com/go-logfmt/logfmt v0.6.0 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.0.0 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
