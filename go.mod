@@ -12,13 +12,13 @@ require (
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
 	github.com/grokify/goauth v0.20.9
 	github.com/grokify/gocharts/v2 v2.17.0
-	github.com/grokify/mogo v0.62.7
+	github.com/grokify/mogo v0.62.8
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/joho/godotenv v1.5.1
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.20.0
 	google.golang.org/api v0.156.0
-	google.golang.org/genproto v0.0.0-20240108191215-35c7eff3a6b1
+	google.golang.org/genproto v0.0.0-20240116215550-a9fa1716bcac
 )
 
 require (
@@ -62,7 +62,7 @@ require (
 	go.opentelemetry.io/otel/metric v1.21.0 // indirect
 	go.opentelemetry.io/otel/trace v1.21.0 // indirect
 	golang.org/x/crypto v0.18.0 // indirect
-	golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3 // indirect
+	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a // indirect
 	golang.org/x/mod v0.14.0 // indirect
 	golang.org/x/oauth2 v0.16.0 // indirect
 	golang.org/x/sync v0.6.0 // indirect
