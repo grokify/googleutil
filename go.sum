@@ -9,8 +9,8 @@ cloud.google.com/go/compute/metadata v0.2.3 h1:mg4jlk7mCAj6xXp9UJ4fjI9VUI5rubuGB
 cloud.google.com/go/compute/metadata v0.2.3/go.mod h1:VAV5nSsACxMJvgaAuX6Pk2AawlZn8kiOGuCv6gTkwuA=
 cloud.google.com/go/datacatalog v1.19.0 h1:rbYNmHwvAOOwnW2FPXYkaK3Mf1MmGqRzK0mMiIEyLdo=
 cloud.google.com/go/datacatalog v1.19.0/go.mod h1:5FR6ZIF8RZrtml0VUao22FxhdjkoG+a0866rEnObryM=
-cloud.google.com/go/dlp v1.11.1 h1:OFlXedmPP/5//X1hBEeq3D9kUVm9fb6ywYANlpv/EsQ=
-cloud.google.com/go/dlp v1.11.1/go.mod h1:/PA2EnioBeXTL/0hInwgj0rfsQb3lpE3R8XUJxqUNKI=
+cloud.google.com/go/dlp v1.11.2 h1:lTipOuJaSjlYnnotPMbEhKURLC6GzCMDDzVbJAEbmYM=
+cloud.google.com/go/dlp v1.11.2/go.mod h1:9Czi+8Y/FegpWzgSfkRlyz+jwW6Te9Rv26P3UfU/h/w=
 cloud.google.com/go/iam v1.1.5 h1:1jTsCu4bcsNsE4iiqNT5SHwrDRCfRmIaaaVFhRveTJI=
 cloud.google.com/go/iam v1.1.5/go.mod h1:rB6P/Ic3mykPbFio+vo7403drjlgvoWfYpJhMXEbzv8=
 cloud.google.com/go/longrunning v0.5.4 h1:w8xEcbZodnA2BbW6sVirkkoC+1gP8wS57EUUgGS0GVg=
