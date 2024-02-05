@@ -11,14 +11,14 @@ require (
 	github.com/Iwark/spreadsheet v0.0.0-20230915040305-7677e8164883
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
 	github.com/grokify/goauth v0.20.10
-	github.com/grokify/gocharts/v2 v2.17.1
-	github.com/grokify/mogo v0.62.8
+	github.com/grokify/gocharts/v2 v2.18.1
+	github.com/grokify/mogo v0.63.1
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/joho/godotenv v1.5.1
 	github.com/lucasb-eyer/go-colorful v1.2.0
 	golang.org/x/net v0.20.0
 	google.golang.org/api v0.160.0
-	google.golang.org/genproto v0.0.0-20240116215550-a9fa1716bcac
+	google.golang.org/genproto v0.0.0-20240125205218-1f4bbc51befe
 )
 
 require (
