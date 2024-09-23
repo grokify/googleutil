@@ -6,7 +6,7 @@ toolchain go1.23.0
 
 require (
 	cloud.google.com/go/bigquery v1.63.0
-	cloud.google.com/go/dlp v1.18.1
+	cloud.google.com/go/dlp v1.19.0
 	cloud.google.com/go/speech v1.25.1
 	github.com/Iwark/spreadsheet v0.0.0-20230915040305-7677e8164883
 	github.com/ajstarks/svgo v0.0.0-20211024235047-1546f124cd8b
